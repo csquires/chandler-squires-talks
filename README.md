@@ -12,3 +12,4 @@ This repository contains slides for my public talks.
 **2023**
 - [Beyond ICA: Causal Disentanglement via Interventions](2023/when-causal-inference-meets-statistical-analysis.pdf) at the [Colloquium on When Causal Inference Meets Statistical Analysis](https://quarter-on-causality.github.io/analysis/)
 - [Linear Causal Disentanglement via Interventions](2023/siam-optimization.pdf) at SIAM OPT 2023 Minisymposium on [Applications of Optimization for Causal Structure Learning](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=76778)
+- [Identifiability of Causal Models](2023/mila-causal-disentanglement.pdf) as an invited talk at Mila
